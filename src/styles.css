@@ -1,0 +1,40 @@
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 800px;
+  margin-top: 80px;
+  margin-bottom: 60px;
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+}
+h1 {
+  color: #6c5858;
+}
+h2 {
+  text-align: center;
+  font-size: 24px;
+}
+p {
+  color: #666;
+  font-size: 22px;
+}
+.recipe {
+  color: #bd8bf0;
+}
+.recipe:hover {
+  color: #9b34fc;
+  text-decoration: none;
+}
+.history {
+  color: #bd8bf0;
+}
+.history:hover {
+  color: #9b34fc;
+  text-decoration: none;
+}
